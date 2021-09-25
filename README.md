@@ -1,6 +1,6 @@
 # AppBar-TabBar-Drawer-App
  
- This is Stand alone App Where All 3 examples are added  AppBar, TabBar, Drawer, Custome Appbar with Dynamic Height, Amazing Profile View Etc...
+ This is Stand alone App Where All 3 examples are added  AppBar, TabBar, Drawer, Custome Appbar with Dynamic Height, Amazing Profile View, with App icon Etc...
  
 1. Main Home Page:
  
