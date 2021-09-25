@@ -30,7 +30,7 @@ class _ThirdPageState extends State<ThirdPage> {
     return Scaffold(
       key: _scafoldKey,
       appBar: CustomAppBar(
-        backgroundColor: Colors.amber,
+        backgroundColor: Color(0xff8BD8BD),
         title: Text('Custom AppBar'),
         actions: [
           Padding(
@@ -51,7 +51,7 @@ class _ThirdPageState extends State<ThirdPage> {
       body: Container(
         height: double.infinity,
         width: double.infinity,
-        color: Colors.black,
+        color:Color(0xff2F3C7E),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 35.0, vertical: 30.0),
           child: Column(

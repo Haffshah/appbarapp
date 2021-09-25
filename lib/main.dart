@@ -24,10 +24,10 @@ class MainHome extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.black,
+      backgroundColor: Color(0xffFBEAEB),
       appBar: AppBar(
         centerTitle: true,
-        backgroundColor: Colors.orange,
+        backgroundColor: Color(0xff2F3C7E),
         title: Text('Main Home Page'),
       ),
       body: Center(
@@ -37,7 +37,7 @@ class MainHome extends StatelessWidget {
           children: [
             ElevatedButton(
               style: ElevatedButton.styleFrom(
-                primary: Colors.orange,
+                primary:  Color(0xff2F3C7E),
                 fixedSize: Size(280, 40),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(5),
@@ -58,7 +58,7 @@ class MainHome extends StatelessWidget {
             ),
             ElevatedButton(
               style: ElevatedButton.styleFrom(
-                primary: Colors.orange,
+                primary:Color(0xff2F3C7E),
                 fixedSize: Size(280, 40),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(5),
@@ -79,7 +79,7 @@ class MainHome extends StatelessWidget {
             ),
             ElevatedButton(
               style: ElevatedButton.styleFrom(
-                primary: Colors.orange,
+                primary: Color(0xff2F3C7E),
                 fixedSize: Size(280, 40),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(5),
@@ -100,7 +100,7 @@ class MainHome extends StatelessWidget {
             ),
             ElevatedButton(
               style: ElevatedButton.styleFrom(
-                primary: Colors.orange,
+                primary:  Color(0xff2F3C7E),
                 fixedSize: Size(280, 40),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(5),
