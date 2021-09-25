@@ -1,8 +1,6 @@
-
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-
-import 'CustomeAppBar.dart';
+import 'CustomAppBar.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({Key? key}) : super(key: key);
